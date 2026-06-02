@@ -1,0 +1,22 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node / build (in case you add tooling later)
+node_modules/
+dist/
+.cache/
+
+# Netlify
+.netlify/
+
+# Logs
+*.log
+npm-debug.log*
